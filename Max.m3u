@@ -65,16 +65,12 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="Mediaset",Cine34
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Focus.it" tvg-chno="35" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png" group-title="Mediaset",FOCUS
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radio",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
@@ -85,9 +81,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="Rai",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Italia2.it" tvg-chno="49" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="Mediaset",Italia 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Sky",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Mediaset",TGCOM 24
@@ -99,8 +92,6 @@ https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-chno="56" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/homegardentv.png" group-title="Discovery",HGTV - Home&Garden
-https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
