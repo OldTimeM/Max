@@ -25,8 +25,6 @@ https://jmp2.uk/stvp-ITBD1500002NL
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://jmp2.uk/stvp-IT9000060Q
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.jpg" group-title="Altri Canali Nazionali",La7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-chno="11" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altro",RSI La2 
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 channel-id="66461e4394d5580008cfd9c5" tvg-id="66461e4394d5580008cfd9c5" tvg-chno="13" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.png" group-title="Altro", DFB Play TV
@@ -101,6 +99,7 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTINF:-1,tvg-id="Rai 3 TGR Lazio" tvg-chno="999" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3 TGR Lazio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16&forceUserAgent=raiplayappletv
+
 
 
 
