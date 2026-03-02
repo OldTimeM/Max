@@ -1,98 +1,100 @@
-#EXTM3U x-tvg-url="http://116.202.210.205/test/it_dttsat_full.xml"
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
+#EXTM3Ux-tvg-url=http://116.202.210.205/test/it_dttsat_full.xml
+#EXTM3Ux-tvg-url=https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
+#EXTINF:-1tvg-id=Rai 1tvg-chno=1tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.pnggroup-title=Canali RAI,Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Canali RAI",Rai 2 
+#EXTINF:-1tvg-id=Rai 2tvg-chno=2tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.pnggroup-title=Canali RAI,Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.png" group-title="Canali RAI",Rai 3
+#EXTINF:-1tvg-id=Rai tvg-chno=3tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-3-kwvj7ve82k1u.pnggroup-title=Canali RAI,Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
+#EXTINF:-1tvg-id=Rete4.ittvg-chno=4tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.pnggroup-title=Mediaset,Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
+#EXTINF:-1tvg-id=Canale5.ittvg-chno=5tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.pnggroup-title=Mediaset,Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1
+#EXTINF:-1tvg-id=Italia1.ittvg-chno=6tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.pnggroup-title=Mediaset,Italia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-#EXTINF:-1 channel-id="ITBD1500002NL" tvg-id="ITBD1500002NL" tvg-chno="7" tvg-name="La 7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20241022T051646SQUARE.png" group-title="Samsung Channels",La 7
+#EXTINF:-1tvg-id=ITBD1500002NLtvg-chno=7tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20241022T051646SQUARE.pnggroup-title=Samsung Channels,La 7tvg-name=La 7channel-id=ITBD1500002NL
 https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
+#EXTINF:-1tvg-id=Tv8.ittvg-chno=8tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.pnggroup-title=Sky,TV8
 https://www.mytivu.it/Application/Channels/TV8.php
-#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
+#EXTINF:-1tvg-id=Nove.ittvg-chno=9tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.pnggroup-title=Discovery,NOVE
 https://jmp2.uk/stvp-IT9000060Q
-#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-chno="11" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.png" group-title="Altro",RSI La2 
+#EXTINF:-1tvg-id=RSI.LA.2.chtvg-chno=10tvg-logo=http://odmsto.com/uploads/tv_image/sm/rsi-la2-i2lwhb01iqwr.pnggroup-title=Altro,RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:-1 channel-id="66461e4394d5580008cfd9c5" tvg-id="66461e4394d5580008cfd9c5" tvg-chno="13" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.png" group-title="Altro", DFB Play TV
-#EXTINF:-1 channel-id="65f865a62873090008d06382" tvg-id="65f865a62873090008d06382" tvg-chno="14" tvg-name="Duri a Morire" tvg-logo="https://images.pluto.tv/channels/65f865a62873090008d06382/colorLogoPNG.png" group-title="Altro", Duri a Morire
-#EXTINF:-1 channel-id="ITBD3200001VR" tvg-id="ITBD3200001VR" tvg-chno="15" tvg-name="I Bellissimi - Samsung Channels" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20241106T142419SQUARE.png" group-title="Altro", I Bellissimi - Samsung Channels
+#EXTINF:-1tvg-id=66461e4394d5580008cfd9c5tvg-chno=11tvg-logo=https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/colorLogoPNG.pnggroup-title=Altrotvg-name=DFB Play TVchannel-id=66461e4394d5580008cfd9c5
+#EXTINF:-1tvg-id=65f865a62873090008d06382tvg-chno=12tvg-logo=https://images.pluto.tv/channels/65f865a62873090008d06382/colorLogoPNG.pnggroup-title=Altrotvg-name=Duri a Morirechannel-id=65f865a62873090008d06382
+#EXTINF:-1tvg-id=ITBD3200001VRtvg-chno=13tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20241106T142419SQUARE.pnggroup-title=Altrotvg-name=I Bellissimi - Samsung Channelschannel-id=ITBD3200001VR
 https://jmp2.uk/stvp-ITBD3200001VR
-#EXTINF:-1 channel-id="IT2600005ZN" tvg-id="IT2600005ZN" tvg-chno="16" tvg-name="Dramma - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600005ZN_20241126T043538SQUARE.png" group-title="Altro", Dramma - Rakuten TV
+#EXTINF:-1tvg-id=IT2600005ZNtvg-chno=14tvg-logo=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600005ZN_20241126T043538SQUARE.pnggroup-title=Altrotvg-name=Dramma - Rakuten TVchannel-id=IT2600005ZN
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
+#EXTINF:-1tvg-id=20Mediaset.ittvg-chno=20tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.pnggroup-title=Mediaset,20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.png" group-title="Canali RAI",Rai 4
+#EXTINF:-1tvg-chno=21tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-4-lbz08s5luj9v.pnggroup-title=Canali RAI,Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
+#EXTINF:-1tvg-id=Iris.ittvg-chno=22tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.pnggroup-title=Mediaset,Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.png" group-title="Canali RAI",Rai 5
+#EXTINF:-1tvg-chno=23tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-5-au136o25p81j.pnggroup-title=Canali RAI,Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.png" group-title="Canali RAI",Rai Movie
+#EXTINF:-1tvg-chno=24tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-movie-pfi6w4ycsdmh.pnggroup-title=Canali RAI,Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.png" group-title="Canali RAI",Rai Premium
+#EXTINF:-1tvg-chno=25tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-premium-gdf9izugt6ty.pnggroup-title=Canali RAI,Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1676926758~exp=1676927058~acl=/*~hmac=7118fd3c2dd988fd4d37f546da7aad61f306b4294401b8360d66daab99b2ecc8
-#EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Mediaset",Twenty Seven
+#EXTINF:-1tvg-id=CieloTv.ittvg-chno=26tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.pnggroup-title=Sky,Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1tvg-id=TwentySeven.ittvg-chno=27tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.pnggroup-title=Mediaset,TwentySeven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altro",TV2000
+#EXTINF:-1tvg-id=TV2000.ittvg-chno=28tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.pnggroup-title=Altro,TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="La.7d.ch" tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png" group-title="Altro",LA7d
+#EXTINF:-1tvg-id=La.7d.chtvg-chno=29tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.pnggroup-title=Altro,LA7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
-#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="Mediaset",Cine34
+#EXTINF:-1tvg-id=Cine34.ittvg-chno=34tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.pnggroup-title=Mediaset,Cine34
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Focus.it" tvg-chno="35" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png" group-title="Mediaset",FOCUS
+#EXTINF:-1tvg-id=Focus.ittvg-chno=35tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.pnggroup-title=Mediaset,FOCUS
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
+#EXTINF:-1tvg-id=GialloTV.ittvg-chno=38tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.pnggroup-title=Discovery,Giallo
 https://jmp2.uk/stvp-IT9000081B
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
+#EXTINF:-1tvg-id=TopCrime.ittvg-chno=39tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.pnggroup-title=Mediaset,Top Crime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-news-24-j6ydz0f2z08i.png" group-title="News e Canali Istituzionali",Rai News 24
+#EXTINF:-1tvg-id=Rai News 24tvg-chno=48tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-news-24-j6ydz0f2z08i.pnggroup-title=News e Canali Istituzionali,Rai News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Sky",Sky TG24
-https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
-#EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Mediaset",TGCOM 24
+#EXTINF:-1tvg-id=SkyTG24.ittvg-chno=50tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.pnggroup-title=Sky,Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1tvg-id=TGCom24.ittvg-chno=51tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.pnggroup-title=Mediaset,TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
+#EXTINF:-1tvg-id=DMAX.ittvg-chno=52tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.pnggroup-title=Discovery,DMAX
 https://jmp2.uk/stvp-IT9000113W
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Canali RAI",Rai Storia
+#EXTINF:-1tvg-id=Rai Storiatvg-chno=54tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.pnggroup-title=Canali RAI,Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.png" group-title="Canali Sport Italiani",Rai Sport + Hd
+#EXTINF:-1tvg-id=Rai Sport HDtvg-chno=58tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-sport-hd.pnggroup-title=Canali Sport Italiani,Rai Sport HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
+#EXTINF:-1tvg-id=MotorTrendTV.ittvg-chno=59tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.pnggroup-title=Discovery,Motor Trend
 https://jmp2.uk/stvp-IT900004Y5
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-4k.png" group-title="Canali RAI",Rai 4K
+#EXTINF:-1tvg-id=Rai 4Ktvg-chno=51tvg-logo=http://odmsto.com/uploads/tv_image/sm/rai-4k.pnggroup-title=Canali RAI,Rai 4K
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1,tvg-id="Rai 3 TGR Lazio" tvg-chno="999" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3 TGR Lazio
+#EXTINF:-1,tvg-id=Rai 3 TGR Laziotvg-id=Rai TGR Laziotvg-chno=999tvg-logo=https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.pnggroup-title=Rai,Rai 3 TGR Lazio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16&forceUserAgent=raiplayappletv
+
+
 
 
 
