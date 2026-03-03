@@ -89,11 +89,11 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 https://jmp2.uk/stvp-IT900004Y5
 #EXTINF:-1 channel-id="IT3000282Q" tvg-id="Motor1.com" tvg-chno="60" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20250811T173011SQUARE.png" group-title="Samsung Channels",Motor1
 https://jmp2.uk/stvp-IT3000282Q
-#EXTINF:-1 tvg-chno="61" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW_ROCK_400x200.png" group-title="LG Channels",978 Now Rock
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW_ROCK_400x200.png" group-title="LG Channels",Now Rock
 https://amg01076-lightning-amg01076c3-lg-it-10366.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-nowrock-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW70s.png" group-title="LG Channels",979 Now 70s
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW70s.png" group-title="LG Channels",Now 70s
 https://amg01076-lightning-amg01076c1-lg-it-3976.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW80s.png" group-title="LG Channels",980 Now 80s
+#EXTINF:-1 tvg-chno="63" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW80s.png" group-title="LG Channels",Now 80s
 https://amg01076-lightning-amg01076c2-lg-it-4091.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 #EXTINF:-1 channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-chno="64" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png" group-title="Samsung Channels",Vevo '70s & '80s
 https://jmp2.uk/stvp-ITBD1900010JL
@@ -131,6 +131,7 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 #EXTINF:-1,tvg-id="Rai 3 TGR Lazio" tvg-chno="999" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3 TGR Lazio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16&forceUserAgent=raiplayappletv
+
 
 
 
