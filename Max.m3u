@@ -76,7 +76,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
 https://jmp2.uk/stvp-IT9000113W
-#EXTINF:-1 channel-id="IT31000026G" tvg-id="IT31000026G" tvg-chno="53" tvg-name="Discovery" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png" group-title="Samsung Channels",Discovery
+#EXTINF:-1 channel-id="IT31000026G" tvg-id=id="WarnerTV.it" tvg-chno="53" tvg-name="Discovery" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20251013T054531SQUARE.png" group-title="Samsung Channels",Discovery
 https://jmp2.uk/stvp-IT31000026G
 #EXTINF:-1,tvg-id="Rai Storia" tvg-chno="54" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-storia-uwdoqlac5rgy.png" group-title="Canali RAI",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -137,6 +137,7 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 #EXTINF:-1,tvg-id="Rai 3 TGR Lazio" tvg-chno="999" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3 TGR Lazio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72918&output=16&forceUserAgent=raiplayappletv
+
 
 
 
